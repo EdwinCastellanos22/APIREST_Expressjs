@@ -17,5 +17,11 @@ Este proyecto es una **API REST** desarrollada con **Node.js** y **Express**, di
 1. Clona este repositorio:
 
 ```bash
-git clone https://github.com/usuario/nombre-proyecto.git
-cd nombre-proyecto
+git clone https://github.com/EdwinCastellanos22/APIREST_Expressjs.git
+cd APIREST_Expressjs
+npm run dev
+```
+2. Docker
+``` bash
+docker pull pempi2022/apiresexpressjs:1.0
+```
